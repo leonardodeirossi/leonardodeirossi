@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @leonardodeirossi
 - 👀 I’m interested in web development (HTML5, CSS, PHP, MySQL)
 - 🌱 I’m currently teaching as Apple Teacher Trainer at my school
-- 💞️ I’m looking to collaborate on PON FSE @Learn&Lead Project
+- 💞️ I’m collaborating on PON FSE @Learn&Lead Project
 - 📫 You can contact me at leonardo.deirossi@icloud.com
 
 <!---
