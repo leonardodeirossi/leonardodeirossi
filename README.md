@@ -1,4 +1,4 @@
-# @leonardodeirossi - Leonardo Essam 🤠
+# @leonardodeirossi - Leonardo Essam 🦋
 ### Welcome to my GitHub profile :)
 
 - 👋 Hi, I’m [@leonardodeirossi](https://instagram.com/leonardodeirossi/)
